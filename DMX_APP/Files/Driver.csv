@@ -1,0 +1,3 @@
+"colSeparator","fileExtension","fileName","fileType","footer","header","lineSeparator","cols","Hash"
+"|",".csv","FileNameB","TypeC","0","3","CRLF","Name|CompanyName|Country|CIFNumber","Name|CIFNumber"
+"|",".csv","FileNameA","TypeB","1","2","LF","ClientName|Company|Country|CIF","ClientName|CIF"
